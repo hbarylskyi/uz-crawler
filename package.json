@@ -11,7 +11,7 @@
   "license": "ISC",
   "dependencies": {
     "inquirer": "^6.3.1",
-    "minimist": "^1.2.0",
+    "minimist": "^1.2.3",
     "puppeteer": "^1.14.0"
   }
 }
