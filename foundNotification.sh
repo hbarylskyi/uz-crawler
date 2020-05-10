@@ -1,0 +1,1 @@
+osascript -e 'display notification with title "Train found" sound name "Glass"'
